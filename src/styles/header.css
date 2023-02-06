@@ -1,0 +1,22 @@
+.header {
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 1px navy;
+  }
+  
+  .header img {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+  }
+  
+  .header > p {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Gloria Hallelujah', cursive;
+  }
+  

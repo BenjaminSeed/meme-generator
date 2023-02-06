@@ -1,0 +1,11 @@
+button {
+    background-color: cornflowerblue;
+    border: 1px solid navy;
+    border-radius: 10px;
+    padding-top: 0px;
+    color: white;
+    margin-top: 10px;
+    font-family: 'Gloria Hallelujah', cursive;
+    cursor: pointer;
+    width: 10%;
+  }
