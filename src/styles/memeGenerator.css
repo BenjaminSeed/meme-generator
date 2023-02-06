@@ -8,4 +8,51 @@ button {
     font-family: 'Gloria Hallelujah', cursive;
     cursor: pointer;
     width: 10%;
+    margin-left: 10px;
   }
+  
+
+  .top {
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    right: 60%;
+    text-align: center;
+    padding-left: 10px;
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:xx-large;
+    font-weight: 900;
+  }
+  
+  .bottom {
+    position: absolute;
+    bottom: 25%;
+    left: 0%;
+    right: 60%;
+    text-align: center;
+    padding-left: 10px;
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:xx-large;
+    font-weight: 900;
+  }
+
+  .meme > img {
+    border-radius: 10px;
+    padding-top: 10px;
+  }
+
+  .topForm {
+    margin-top: 5px;
+    padding: 8px;
+    width: 12%;
+  }
+
+  .bottomForm {
+    margin-left: 5px;
+    padding: 8px;
+    width: 12%;
+  }
+
+  
