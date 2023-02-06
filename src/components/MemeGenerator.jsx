@@ -18,7 +18,8 @@ function MemeGenerator() {
   }, []);
 
   const handleChange = (event) => {
-    const { name, value } = event.value 
+    const { name, value } = event.target 
+    setAllMemeImgs({ [name]: value })
     console.log('working')
   }
 
